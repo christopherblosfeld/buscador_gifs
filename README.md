@@ -1,2 +1,2 @@
 # buscador_gifs
- tseibum
+ Aplicativo desenvolvido para buscar gifs na plataforma Giphy
